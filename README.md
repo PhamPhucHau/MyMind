@@ -1,1 +1,2 @@
-# MyMind
+# Algebra
+- [ ] Binary Exponentiation
